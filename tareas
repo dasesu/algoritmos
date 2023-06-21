@@ -1,0 +1,37 @@
+Tarea Repaso de conceptos:
+1) Escriba un algoritmo que lea un número de cuatro dígitos y muestre en
+pantalla el número escrito en reverso. Por ejemplo, si el número es 4678, la
+salida debería ser 8764.
+
+2) Haga un algoritmo que tome como entrada 2 números distintos e imprima el
+segundo número mayor
+
+3) Escriba un algoritmo que reciba como entrada un fecha (día y mes) del año
+actual e imprima por pantalla el número de días transcurridos desde el 1ro de
+Enero.
+
+4) Haga un algoritmo que reciba como entrada un número entre 1 y 12 e imprima
+el nombre del mes correspondiente. Tome en cuenta posibles valores erróneos en
+la entrada.
+
+5) Escriba un algoritmo que imprima los valores de todas las fichas de dominó
+sin repetir.
+
+6) Escriba un algoritmo que imprima por pantalla en borde de un cuadrado de
+lados de tamaño N . Por ejemplo, si N = 5, el algoritmo debería imprimir:
+
+XXXXX
+X   X
+X   X
+X   X
+XXXXX
+
+
+7) Escriba un algoritmo que lea un numero N y dibuje un triangulo de base N y
+altura N, por ejemplo para N=5
+
+*
+**
+***
+****
+*****
